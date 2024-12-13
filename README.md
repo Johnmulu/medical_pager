@@ -1,6 +1,6 @@
 # Medical Pager
 
 Made by Endale T.
-![App front](/Medical1.png)
-![App front](/Medical2.png)
-![App front](/Medical3.png)
+<img src="Medical1.png" width="300"  />
+<img src="Medical2.png" width="300"  />
+<img src="Medical3.png" width="300"  />
